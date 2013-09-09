@@ -1,0 +1,26 @@
+{
+    "name": "arkive"
+  , "version": "0.0.0"
+  , "description": "Streaming archive/unarchive in various formats."
+  , "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)"
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "repository": {
+        "type": "git"
+      , "url": "git@github.com:logicalparadox/arkive.git"
+    }
+  , "engines": {
+      "node": "*"
+    }
+  , "main": "./index"
+  , "scripts": {
+      "test": "mocha"
+    }
+  , "dependencies": {
+    }
+  , "devDependencies": {
+        "chai": "*"
+      , "mocha": "*"
+    }
+}
