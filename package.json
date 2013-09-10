@@ -1,6 +1,6 @@
 {
     "name": "arkive"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Streaming archive/unarchive in various formats."
   , "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)"
   , "license": "MIT"
